@@ -1,16 +1,16 @@
 # Tour-Package-Management-System
 This project is a Tour Package Management System built using Node.js, Express, Ejs and MySQL. It allows customers to browse and book tour packages, while administrators can manage packages, view customer bookings, and update/delete packages.
 # Features
-# Customer:
+Customer:
 Browse available tour packages.
 Book a tour package.
 View booking confirmation.
-# Admin:
+Admin:
 Add, update, and delete tour packages.
 View all customer bookings.
 Search and filter tour packages
 # Installation
-# Prerequisites
+Prerequisites
 Node.js and npm installed
 MySQL installed
 Git (for version control)
