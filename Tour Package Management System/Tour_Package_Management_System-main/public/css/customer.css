@@ -1,0 +1,38 @@
+.stptitle{
+    /* border: 1px solid black; */
+    padding: 0.8rem 1.8rem;
+    font-size: 1.5rem;
+}
+.show_tourpackage{
+    border: 1px solid black;
+    margin: 1rem;
+}
+.show_tourpackage > *{
+    margin: 1rem;
+}
+
+.search_list{
+    border: 1px solid black;
+    padding: 0.4rem;
+}
+.search_table{
+    border-collapse: collapse;
+}
+.list_head{
+    background-color: rgba(172, 233, 235, 0.597);
+}
+th, td{
+    padding: 0.8rem;
+}
+.search_filter_form > *{
+    padding: 0.6rem 1rem;
+}
+.search_filter_form > button{
+    background-color: rgba(110, 89, 227, 0.712);
+}
+.bookbtn{
+    text-decoration: none;
+    border: 1px solid black;
+    padding: 0.4rem 0.8rem;
+    background-color: rgba(121, 180, 244, 0.781);
+}
