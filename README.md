@@ -24,8 +24,7 @@ Other: dotenv for environment variables
 # Run Locally
 Clone the project<br>
 
-  git clone https://github.com/N1nadLad/Tour_Package_Management_System<br>
-Go to the project directory<br>
+  git clone(https://github.com/rohitgurjar2207/Tour-Package-Management-System/blob/main/README.md)<br>
 
   cd Tour_Package_Management_System<br>
 Install dependencies<br>
